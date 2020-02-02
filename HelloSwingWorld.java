@@ -22,6 +22,7 @@ public class HelloSwingWorld {
 		/**
 		   The run method that will be invoked by this thread.
 		*/
+		@Override
 		public void run() {
 
 		    // in more complex examples, you will often just
