@@ -41,7 +41,7 @@ public class HelloSwingWorld {
 		    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		    // create a JLabel containing our message, and add
-		    // it to our JPanel
+		    // it to our JFrame
 		    JLabel label = new JLabel("Hello, Swing World!");
 		    frame.add(label);
 
