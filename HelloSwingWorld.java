@@ -30,7 +30,7 @@ public class HelloSwingWorld {
 		    
 		    // set up the GUI "look and feel" which should match
 		    // the OS on which we are running
-		    JFrame.setDefaultLookAndFeelDecorated(true);
+		   // JFrame.setDefaultLookAndFeelDecorated(true);
 
 		    // create a JFrame in which we will build our very
 		    // tiny GUI, and give the window a name
